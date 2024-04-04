@@ -30,7 +30,7 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - ⚡ Fun fact: **I solemnly swear that I am up to no good**
 
 <!-- Languages -->
-##Languages and Tools
+## Languages and Tools
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
