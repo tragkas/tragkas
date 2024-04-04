@@ -21,32 +21,16 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - [Project 2](link): Description of project 2
 - [Project 3](link): Description of project 3
 
-<!-- Contact -->
-## Contact Me
-- 📧 Email: 
-- 💼 LinkedIn: [George Tragkas](www.linkedin.com/in/georgios-tragkas)
-
-<!-- Footer -->
----
-
-![Footer](footer_image.jpg)
-
-
-<!-- Intro -->
+<!-- Interests -->
+## Interests
 - 🔭 I’m currently working on **something new**
 - 🌱 I’m currently learning **Writing Online**
 - 👨‍💻 All of my projects are available at [tragkas.co](https://tragkas.co)
 - 💬 Ask me about **Decision Making and Online Businesses**
 - ⚡ Fun fact: **I solemnly swear that I am up to no good**
 
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links here -->
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<!-- Languages -->
+##Languages and Tools
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -91,3 +75,17 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
+<!-- Contact -->
+## Contact Me
+- 📧 Email: 
+- 💼 LinkedIn: [George Tragkas](www.linkedin.com/in/georgios-tragkas)
+
+<!-- Footer -->
+---
+
+![Footer](footer_image.jpg)
+
+
+
+
