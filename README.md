@@ -84,7 +84,7 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 <!-- Footer -->
 ---
 
-![Footer](footer_image.jpg)
+![Footer]([footer_image.jpg](https://www.tumbex.com/edwardslovelyelizabeth.tumblr/post/633302109991862272))
 
 
 
