@@ -82,7 +82,6 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - 💼 LinkedIn: [George Tragkas](www.linkedin.com/in/georgios-tragkas)
 
 <!-- Footer -->
----
 
 <p align="center">
   <img src="https://78.media.tumblr.com/105a48df6dc4a05958827c3e6b085015/tumblr_inline_oxx8qmf7jZ1u67zft_500.gif" alt="Footer Image" width="300" height="300">
