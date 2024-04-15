@@ -78,7 +78,7 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 
 <!-- Contact -->
 ## Contact Me
-- 💼 LinkedIn: [George Tragkas](www.linkedin.com/in/georgios-tragkas)
+- 💼 LinkedIn: [Visit me](www.linkedin.com/in/georgios-tragkas)
 
 
 
