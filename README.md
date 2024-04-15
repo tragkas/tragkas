@@ -17,9 +17,9 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 
 <!-- Projects -->
 ## Projects
-- [Project 1](link): Description of project 1
+<!-- - [Project 1](link): Description of project 1
 - [Project 2](link): Description of project 2
-- [Project 3](link): Description of project 3
+- [Project 3](link): Description of project 3  -->
 
 <!-- Interests -->
 ## Interests
@@ -78,7 +78,6 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 
 <!-- Contact -->
 ## Contact Me
-- 📧 Email: 
 - 💼 LinkedIn: [George Tragkas](www.linkedin.com/in/georgios-tragkas)
 
 
