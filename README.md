@@ -24,7 +24,7 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 <!-- Interests -->
 ## Interests
 - 🔭 I’m currently working on **my business**
-- 🌱 I’m currently learning **Writing Online**
+- 🌱 I’m currently learning **to write online content**
 - 👨‍💻 All of my projects are available at [tragkas.co](https://tragkas.co)
 - 💬 Ask me about **Decision Making and Online Businesses**
 - ⚡ Fun fact: **I solemnly swear that I am up to no good**
