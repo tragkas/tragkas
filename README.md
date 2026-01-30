@@ -2,32 +2,19 @@
 # George Tragkas
 
 <!-- Introduction -->
-Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Full-stack Engineer. I'm passionate about creating online businesses focusing on digital products.
+Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Full-stack Engineer. I'm passionate about creating online stuff.
 
 <!-- Education -->
 ## Education
 - 🎓 Bachelor in Economics
 - 🎓 Master in Negotiations
-
-<!-- Skills -->
-## Skills
-- 💼 Economics
-- 🤝 Negotiations
-- 💻 Full-stack Engineering
+- 🎓 Full-stack Engineering Path by Codecademy
 
 <!-- Projects -->
 ## Projects
 <!-- - [Project 1](link): Description of project 1
 - [Project 2](link): Description of project 2
 - [Project 3](link): Description of project 3  -->
-
-<!-- Interests -->
-## Interests
-- 🔭 I’m currently working on **my business**
-- 🌱 I’m currently learning **to write online content**
-- 👨‍💻 All of my projects are available at [tragkas.co](https://tragkas.co)
-- 💬 Ask me about **Decision Making and Online Businesses**
-- ⚡ Fun fact: **I solemnly swear that I am up to no good**
 
 <!-- Languages -->
 ## Languages and Tools
