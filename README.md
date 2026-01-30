@@ -10,6 +10,10 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - 🎓 Master in Negotiations
 - 🎓 Full-stack Engineering Path by Codecademy
 
+<!-- Current Projects -->
+## Current Projects
+- [Bookmark Organizer](https://chromewebstore.google.com/detail/bookmark-organizer/cbooolhmbfhplnkfedjohjinljbdjjcg)
+
 
 <!-- Languages -->
 ## Languages and Tools
