@@ -18,6 +18,10 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - [SendYtb: Send any text to YouTube](https://chromewebstore.google.com/detail/sendytb-send-any-text-to/dblidnbbefcaejcbelidmpglmlbcpnfp) - Right-click selected text to search on YouTube.
 
 
+- [Random Date Ideas](https://github.com/tragkas/random-date) - Click and get a random date suggestion.
+- [Random Movie Ideas](https://github.com/tragkas/random-movie) - Click and get a random movie suggestion.
+
+
 <!-- Languages -->
 ## Languages and Tools
 <p align="left">
