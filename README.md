@@ -12,6 +12,7 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 
 <!-- Current Projects -->
 ## Current Projects
+### Chrome Extensions
 - [Bookmark Organizer](https://chromewebstore.google.com/detail/bookmark-organizer/cbooolhmbfhplnkfedjohjinljbdjjcg) - Organize your bookmarks into structured folders with one click.
 - [Bookmark Search](https://chromewebstore.google.com/detail/bookmarks-search/jhhkfgmpoidofjjffbhllclflnbflhek) - Quickly search and open bookmarks from a modern popup UI.
 - [GptSend: Send any text to ChatGPT](https://chromewebstore.google.com/detail/gptsend-send-any-text-to/dlpddojeomjabagedlkclnoipkihlokb) - Right-click highlighted text to send it to ChatGPT.
