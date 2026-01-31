@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# George Tragkas
+# Georgios Tragkas
 
 <!-- Introduction -->
 Hi there! 👋 I'm George, an Economist turned Full-stack Engineer.
