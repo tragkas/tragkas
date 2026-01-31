@@ -2,8 +2,7 @@
 # George Tragkas
 
 <!-- Introduction -->
-Hi there! 👋 I'm George, an Economist turned Full-stack Engineer. 
-Creating stuff online is actually easy. Try it.
+Hi there! 👋 I'm George, an Economist turned Full-stack Engineer.
 
 <!-- Education -->
 ## Education
