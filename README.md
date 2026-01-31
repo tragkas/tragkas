@@ -12,12 +12,12 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 
 <!-- Current Projects -->
 ## Current Projects
-### Chrome Extensions
 - [Bookmark Organizer](https://chromewebstore.google.com/detail/bookmark-organizer/cbooolhmbfhplnkfedjohjinljbdjjcg) - Organize your bookmarks into structured folders with one click.
 - [Bookmark Search](https://chromewebstore.google.com/detail/bookmarks-search/jhhkfgmpoidofjjffbhllclflnbflhek) - Quickly search and open bookmarks from a modern popup UI.
 - [GptSend: Send any text to ChatGPT](https://chromewebstore.google.com/detail/gptsend-send-any-text-to/dlpddojeomjabagedlkclnoipkihlokb) - Right-click highlighted text to send it to ChatGPT.
 - [SendYtb: Send any text to YouTube](https://chromewebstore.google.com/detail/sendytb-send-any-text-to/dblidnbbefcaejcbelidmpglmlbcpnfp) - Right-click selected text to search on YouTube.
 
+- [FwtiaTwra](https://tragkas.github.io/fire-finder/) - A website for submitting on the foot and in real time fire in your area.
 - [Airbly](https://tragkas.github.io/airbly/) - A website for Airbnb Hosts to get ready to use pdfs for their rentals.
 - [Lattly](https://tragkas.github.io/lattly/) - A website with 4 productivity mini apps (flipClock, kanban board, to-do-list, pomodoro).
 - [Startxub](https://tragkas.github.io/startxub/) - A website work as a directory and toolkit for early stage startups.
