@@ -18,7 +18,10 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - [SendYtb: Send any text to YouTube](https://chromewebstore.google.com/detail/sendytb-send-any-text-to/dblidnbbefcaejcbelidmpglmlbcpnfp) - Right-click selected text to search on YouTube.
 
 
-- [Assessment: Investor's Risk Tolerance](https://github.com/tragkas/investors-risk-tolerance) - A tool to assess an individual's risk tolerance as an investor..
+- [GMB Fillable PDF Form](https://github.com/tragkas/google-my-business-form) - Google My Business Profile Setup Form (PDF).
+- [Free Resumes](https://github.com/tragkas/free-beige-black-white-resume) - 3 free resumes with beige - black - white page color.
+- [Assessment: Dispute Resolution Method](https://github.com/tragkas/dispute-resolution-method) - A tool designed to help individuals assess suitable methods for resolving disputes
+- [Assessment: Investor's Risk Tolerance](https://github.com/tragkas/investors-risk-tolerance) - A tool to assess an individual's risk tolerance as an investor.
 - [Random Date Ideas](https://github.com/tragkas/random-date) - Click and get a random date suggestion.
 - [Random Movie Ideas](https://github.com/tragkas/random-movie) - Click and get a random movie suggestion.
 
