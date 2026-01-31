@@ -2,7 +2,8 @@
 # George Tragkas
 
 <!-- Introduction -->
-Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Full-stack Engineer. I'm passionate about creating online stuff.
+Hi there! 👋 I'm George, an Economist turned Full-stack Engineer. 
+Creating stuff online is actually easy. Try it.
 
 <!-- Education -->
 ## Education
@@ -16,7 +17,9 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - [Bookmark Search](https://chromewebstore.google.com/detail/bookmarks-search/jhhkfgmpoidofjjffbhllclflnbflhek) - Quickly search and open bookmarks from a modern popup UI.
 - [GptSend: Send any text to ChatGPT](https://chromewebstore.google.com/detail/gptsend-send-any-text-to/dlpddojeomjabagedlkclnoipkihlokb) - Right-click highlighted text to send it to ChatGPT.
 - [SendYtb: Send any text to YouTube](https://chromewebstore.google.com/detail/sendytb-send-any-text-to/dblidnbbefcaejcbelidmpglmlbcpnfp) - Right-click selected text to search on YouTube.
-
+- 
+- [Template for Trades](https://plumber-project-tawny.vercel.app/) - Check it out.
+- [A simple linkTree for Airbnb listings](https://airbnb-link-tree.vercel.app/) - Airbnb linktree.
 - [Extract PDF annotations](https://tragkas.github.io/pdf-comment-summarizer/) - Add a pdf with your annotations and download a text file with all of them.
 - [Brand-Positioning-Map](https://tragkas.github.io/Brand-Positioning-Map/) - Add two attributes of your brand and your competitors and see where you are in comparison to them.
 - [Lattly-v2 as Focus App](https://github.com/tragkas/focus-app) - A website with 4 productivity mini apps (flipClock, kanban board, to-do-list, pomodoro).
