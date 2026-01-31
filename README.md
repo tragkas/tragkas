@@ -17,7 +17,6 @@ Creating stuff online is actually easy. Try it.
 - [Bookmark Search](https://chromewebstore.google.com/detail/bookmarks-search/jhhkfgmpoidofjjffbhllclflnbflhek) - Quickly search and open bookmarks from a modern popup UI.
 - [GptSend: Send any text to ChatGPT](https://chromewebstore.google.com/detail/gptsend-send-any-text-to/dlpddojeomjabagedlkclnoipkihlokb) - Right-click highlighted text to send it to ChatGPT.
 - [SendYtb: Send any text to YouTube](https://chromewebstore.google.com/detail/sendytb-send-any-text-to/dblidnbbefcaejcbelidmpglmlbcpnfp) - Right-click selected text to search on YouTube.
-- 
 - [Template for Trades](https://plumber-project-tawny.vercel.app/) - Check it out.
 - [A simple linkTree for Airbnb listings](https://airbnb-link-tree.vercel.app/) - Airbnb linktree.
 - [Extract PDF annotations](https://tragkas.github.io/pdf-comment-summarizer/) - Add a pdf with your annotations and download a text file with all of them.
