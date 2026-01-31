@@ -17,6 +17,7 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - [GptSend: Send any text to ChatGPT](https://chromewebstore.google.com/detail/gptsend-send-any-text-to/dlpddojeomjabagedlkclnoipkihlokb) - Right-click highlighted text to send it to ChatGPT.
 - [SendYtb: Send any text to YouTube](https://chromewebstore.google.com/detail/sendytb-send-any-text-to/dblidnbbefcaejcbelidmpglmlbcpnfp) - Right-click selected text to search on YouTube.
 
+- [uni-list](https://tragkas.github.io/uni-list/) - A website for information about Greek Universities using Google Sheets as a database.
 - [FwtiaTwra](https://tragkas.github.io/fire-finder/) - A website for submitting on the foot and in real time fire in your area.
 - [Airbly](https://tragkas.github.io/airbly/) - A website for Airbnb Hosts to get ready to use pdfs for their rentals.
 - [Lattly](https://tragkas.github.io/lattly/) - A website with 4 productivity mini apps (flipClock, kanban board, to-do-list, pomodoro).
