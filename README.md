@@ -17,6 +17,7 @@ Hi there! 👋 I'm George, an Economist turned Negotiations Specialist turned Fu
 - [GptSend: Send any text to ChatGPT](https://chromewebstore.google.com/detail/gptsend-send-any-text-to/dlpddojeomjabagedlkclnoipkihlokb) - Right-click highlighted text to send it to ChatGPT.
 - [SendYtb: Send any text to YouTube](https://chromewebstore.google.com/detail/sendytb-send-any-text-to/dblidnbbefcaejcbelidmpglmlbcpnfp) - Right-click selected text to search on YouTube.
 
+- [Extract PDF annotations](https://tragkas.github.io/pdf-comment-summarizer/) - Add a pdf with your annotations and download a text file with all of them.
 - [Brand-Positioning-Map](https://tragkas.github.io/Brand-Positioning-Map/) - Add two attributes of your brand and your competitors and see where you are in comparison to them.
 - [Lattly-v2 as Focus App](https://github.com/tragkas/focus-app) - A website with 4 productivity mini apps (flipClock, kanban board, to-do-list, pomodoro).
 - [YouTube Playlist for Studying](https://custom-you-tube-playlist-manager.vercel.app/) - A website for creating youtube playlist to binge-watch videos.
