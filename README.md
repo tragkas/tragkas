@@ -12,6 +12,7 @@ Hi there! 👋 I'm George, an Economist turned Full-stack Engineer.
 
 <!-- Current Projects -->
 ## Current Projects
+- [Highlights to Pdf](https://tragkas.github.io/highlights-to-pdf/) - Convert your PDF highlights into clean notes.
 - [Bookmark Organizer](https://chromewebstore.google.com/detail/bookmark-organizer/cbooolhmbfhplnkfedjohjinljbdjjcg) - Organize your bookmarks into structured folders with one click.
 - [Bookmark Search](https://chromewebstore.google.com/detail/bookmarks-search/jhhkfgmpoidofjjffbhllclflnbflhek) - Quickly search and open bookmarks from a modern popup UI.
 - [GptSend: Send any text to ChatGPT](https://chromewebstore.google.com/detail/gptsend-send-any-text-to/dlpddojeomjabagedlkclnoipkihlokb) - Right-click highlighted text to send it to ChatGPT.
