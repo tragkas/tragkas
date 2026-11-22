@@ -30,7 +30,6 @@ Hi there! 👋 I'm George, an Economist turned Full-stack Engineer.
 - [Startxub](https://tragkas.github.io/startxub/) - A website work as a directory and toolkit for early stage startups.
 - [GMB Fillable PDF Form](https://github.com/tragkas/google-my-business-form) - Google My Business Profile Setup Form (PDF).
 - [Free Resumes](https://github.com/tragkas/free-beige-black-white-resume) - 3 free resumes with beige - black - white page color.
-- [Assessment: Dispute Resolution Method](https://github.com/tragkas/dispute-resolution-method) - A tool to assess suitable methods for resolving disputes
 - [Assessment: Investor's Risk Tolerance](https://github.com/tragkas/investors-risk-tolerance) - A tool to assess an individual's risk tolerance as an investor.
 - [Random Date Ideas](https://github.com/tragkas/random-date) - Click and get a random date suggestion.
 - [Random Movie Ideas](https://github.com/tragkas/random-movie) - Click and get a random movie suggestion.
