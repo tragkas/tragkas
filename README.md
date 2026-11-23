@@ -6,10 +6,10 @@ Hi there! 👋 I'm George check my portfolio.
 
 <!-- Education -->
 ## Education
-- 🎓 Business Intelligence Data Analyst Path by Codecademy
-- 🎓 Full-stack Engineering Path by Codecademy
-- 🎓 Master in Negotiations
-- 🎓 Bachelor in Economics
+- 🎓 Business Intelligence Data Analyst Path by [Codecademy](https://codecademy.com/)
+- 🎓 Full-stack Engineering Path by [Codecademy](https://codecademy.com/)
+- 🎓 Master in International Negotiations from [AUEB](https://www.aueb.gr/)
+- 🎓 Bachelor in Economics from [UNIPI](http://www.unipi.gr/)
 
 <!-- Current Projects -->
 ## Current Projects
