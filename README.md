@@ -8,8 +8,8 @@ Hi there! 👋 I'm George, an Economist turned Full-stack Engineer.
 ## Education
 - 🎓 Business Intelligence Data Analyst Path by Codecademy
 - 🎓 Full-stack Engineering Path by Codecademy
-- 🎓 Bachelor in Economics
 - 🎓 Master in Negotiations
+- 🎓 Bachelor in Economics
 
 <!-- Current Projects -->
 ## Current Projects
