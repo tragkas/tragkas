@@ -6,9 +6,10 @@ Hi there! 👋 I'm George, an Economist turned Full-stack Engineer.
 
 <!-- Education -->
 ## Education
+- 🎓 Business Intelligence Data Analyst Path by Codecademy
+- 🎓 Full-stack Engineering Path by Codecademy
 - 🎓 Bachelor in Economics
 - 🎓 Master in Negotiations
-- 🎓 Full-stack Engineering Path by Codecademy
 
 <!-- Current Projects -->
 ## Current Projects
@@ -17,20 +18,16 @@ Hi there! 👋 I'm George, an Economist turned Full-stack Engineer.
 - [Bookmark Search](https://chromewebstore.google.com/detail/bookmarks-search/jhhkfgmpoidofjjffbhllclflnbflhek) - Quickly search and open bookmarks from a modern popup UI.
 - [GptSend: Send any text to ChatGPT](https://chromewebstore.google.com/detail/gptsend-send-any-text-to/dlpddojeomjabagedlkclnoipkihlokb) - Right-click highlighted text to send it to ChatGPT.
 - [SendYtb: Send any text to YouTube](https://chromewebstore.google.com/detail/sendytb-send-any-text-to/dblidnbbefcaejcbelidmpglmlbcpnfp) - Right-click selected text to search on YouTube.
-- [Template for Trades](https://plumber-project-tawny.vercel.app/) - Check it out.
-- [A simple linkTree for Airbnb listings](https://airbnb-link-tree.vercel.app/) - Airbnb linktree.
+- [Template for Trades](https://tragkas.github.io/plumber-project/) - Check it out.
+- [A simple linkTree for Airbnb listings](https://tragkas.github.io/airbnb-link-tree/) - Airbnb linktree.
 - [Extract PDF annotations](https://tragkas.github.io/pdf-comment-summarizer/) - Add a pdf with your annotations and download a text file with all of them.
 - [Brand-Positioning-Map](https://tragkas.github.io/Brand-Positioning-Map/) - Add two attributes of your brand and your competitors and see where you are in comparison to them.
 - [Lattly-v2 as Focus App](https://github.com/tragkas/focus-app) - A website with 4 productivity mini apps (flipClock, kanban board, to-do-list, pomodoro).
 - [YouTube Playlist for Studying](https://custom-you-tube-playlist-manager.vercel.app/) - A website for creating youtube playlist to binge-watch videos.
 - [uni-list](https://tragkas.github.io/uni-list/) - A website for information about Greek Universities using Google Sheets as a database.
-- [FwtiaTwra](https://tragkas.github.io/fire-finder/) - A website for submitting on the foot and in real time fire in your area.
 - [Airbly](https://tragkas.github.io/airbly/) - A website for Airbnb Hosts to get ready to use pdfs for their rentals.
 - [Lattly](https://tragkas.github.io/lattly/) - A website with 4 productivity mini apps (flipClock, kanban board, to-do-list, pomodoro).
 - [Startxub](https://tragkas.github.io/startxub/) - A website work as a directory and toolkit for early stage startups.
-- [GMB Fillable PDF Form](https://github.com/tragkas/google-my-business-form) - Google My Business Profile Setup Form (PDF).
-- [Free Resumes](https://github.com/tragkas/free-beige-black-white-resume) - 3 free resumes with beige - black - white page color.
-- [Assessment: Investor's Risk Tolerance](https://github.com/tragkas/investors-risk-tolerance) - A tool to assess an individual's risk tolerance as an investor.
 - [Random Date Ideas](https://github.com/tragkas/random-date) - Click and get a random date suggestion.
 - [Random Movie Ideas](https://github.com/tragkas/random-movie) - Click and get a random movie suggestion.
 
