@@ -2,7 +2,7 @@
 # Georgios Tragkas
 
 <!-- Introduction -->
-Hi there! 👋 I'm George, an Economist turned Full-stack Engineer.
+Hi there! 👋 I'm George check my portfolio.
 
 <!-- Education -->
 ## Education
